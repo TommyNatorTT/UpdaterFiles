@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdaterFiles", "UpdaterFiles\UpdaterFiles.csproj", "{9F2892E1-0890-436F-983A-0FC32D9B7202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMigrator", "TestMigrator\TestMigrator.csproj", "{EC0500E7-E1AB-4A20-9E81-6B584C659389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2892E1-0890-436F-983A-0FC32D9B7202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2892E1-0890-436F-983A-0FC32D9B7202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2892E1-0890-436F-983A-0FC32D9B7202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2892E1-0890-436F-983A-0FC32D9B7202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0500E7-E1AB-4A20-9E81-6B584C659389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0500E7-E1AB-4A20-9E81-6B584C659389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0500E7-E1AB-4A20-9E81-6B584C659389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0500E7-E1AB-4A20-9E81-6B584C659389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0917CB2E-B900-4F89-B4FE-51FA5AEDAEAC}
+	EndGlobalSection
+EndGlobal
